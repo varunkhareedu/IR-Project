@@ -14,14 +14,19 @@ The proposed system comprises three main components: a web crawler built with Sc
 # System Capabilities
 
 •	Web Crawler: Dynamically crawls and stores web pages up to a specified depth and page limit.
+
 •	Indexer: Processes text from HTML documents to construct an inverted index based on TF-IDF weights.
+
 •	Query Processor: Accepts and processes user queries to return the most relevant documents.
 
 # Interactions
 
 •	Users interact with the system through a web interface where they can submit queries.
+
 •	The backend processes these queries against the inverted index and returns ranked results.
-Integration
+
+# Integration
+
 •	The system integrates web crawling, text indexing, and query processing in a seamless workflow, facilitating easy transitions from one stage to the next.
 
 
