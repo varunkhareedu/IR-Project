@@ -42,10 +42,12 @@ Interfaces
 
 •	Python was chosen for its robust libraries and ease of integration between components.
 
+![WhatsApp Image 2024-04-22 at 23 55 17_e61f5d27](https://github.com/varunkhareedu/IR-Project/assets/70313728/d7eab204-bf31-41b2-90e8-012caf274c33)
 
-![WhatsApp Image 2024-04-22 at 23 54 40_5fcecf7a](https://github.com/varunkhareedu/IR-Project/assets/70313728/d8adb751-2b80-4c5b-97b9-c49ddf8d5b40)
+![WhatsApp 1](https://github.com/varunkhareedu/IR-Project/assets/70313728/618a6c91-fa8a-4e61-9786-717ca4656fcf)
 
-![WhatsApp Image 2 ](https://github.com/varunkhareedu/IR-Project/assets/70313728/4a1f8f38-a734-454a-a3a8-16f1bc18802e)
+![5d](https://github.com/varunkhareedu/IR-Project/assets/70313728/d66f9557-9ad2-4213-8564-8c604f2bb212)
+
 
 
 # Operation
@@ -69,9 +71,12 @@ Inputs
 
 The project successfully meets its goal of enabling efficient information retrieval from a corpus of web-crawled documents. It effectively demonstrates basic capabilities but could be improved with advanced natural language processing and better error handling.
 
-![WhatsApp 1](https://github.com/varunkhareedu/IR-Project/assets/70313728/7f729397-9eb0-457e-9a24-f7d7b093241f)
 
 
+
+![WhatsApp Image 2024-04-22 at 23 54 40_5fcecf7a](https://github.com/varunkhareedu/IR-Project/assets/70313728/d8adb751-2b80-4c5b-97b9-c49ddf8d5b40)
+
+![WhatsApp Image 2 ](https://github.com/varunkhareedu/IR-Project/assets/70313728/4a1f8f38-a734-454a-a3a8-16f1bc18802e)
 
 # Data Sources
 
