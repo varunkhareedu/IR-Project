@@ -72,15 +72,14 @@ Inputs
 The project successfully meets its goal of enabling efficient information retrieval from a corpus of web-crawled documents. It effectively demonstrates basic capabilities but could be improved with advanced natural language processing and better error handling.
 
 
-
-
 ![WhatsApp Image 2024-04-22 at 23 54 40_5fcecf7a](https://github.com/varunkhareedu/IR-Project/assets/70313728/d8adb751-2b80-4c5b-97b9-c49ddf8d5b40)
 
 ![WhatsApp Image 2 ](https://github.com/varunkhareedu/IR-Project/assets/70313728/4a1f8f38-a734-454a-a3a8-16f1bc18802e)
 
+
 # Data Sources
 
-•	The primary data source is the web, with documents crawled from specified domains.
+•	The primary data source is the web, with documents crawled from specified domains. crawler/downloaded_pages
 
 
 # Test Cases
