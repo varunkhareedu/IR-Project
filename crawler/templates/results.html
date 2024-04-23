@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Search Results</title>
+</head>
+
+<body>
+    <h1>Results for '{{ response.original_query }}'</h1>
+    <p>Expanded Query: {{ response.expanded_query }}</p>
+    <ul>
+        {% for result in response.results %}
+        <li>{{ result }}</li>
+        {% endfor %}
+    </ul>
+    <a href="/">New Search</a>
+</body>
+
+</html>
