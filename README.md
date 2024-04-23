@@ -52,11 +52,8 @@ The proposed system comprises three main components: a web crawler built with Sc
 
 •	Python was chosen for its robust libraries and ease of integration between components.
 
-![WhatsApp Image 2024-04-22 at 23 55 17_e61f5d27](https://github.com/varunkhareedu/IR-Project/assets/70313728/d7eab204-bf31-41b2-90e8-012caf274c33)
 
-![WhatsApp 1](https://github.com/varunkhareedu/IR-Project/assets/70313728/618a6c91-fa8a-4e61-9786-717ca4656fcf)
 
-![5d](https://github.com/varunkhareedu/IR-Project/assets/70313728/d66f9557-9ad2-4213-8564-8c604f2bb212)
 
 
 
@@ -67,6 +64,14 @@ The proposed system comprises three main components: a web crawler built with Sc
 •	Run the crawler with scrapy crawl web_document_spider.
 
 •	Start the Flask app with python app.py.
+
+![5d](https://github.com/varunkhareedu/IR-Project/assets/70313728/d66f9557-9ad2-4213-8564-8c604f2bb212)
+
+![WhatsApp Image 2024-04-22 at 23 55 17_e61f5d27](https://github.com/varunkhareedu/IR-Project/assets/70313728/d7eab204-bf31-41b2-90e8-012caf274c33)
+
+![WhatsApp 1](https://github.com/varunkhareedu/IR-Project/assets/70313728/618a6c91-fa8a-4e61-9786-717ca4656fcf)
+
+
 
 # Inputs
 
