@@ -36,10 +36,15 @@ The proposed system comprises three main components: a web crawler built with Sc
 # Software Components
 
 •	Scrapy: Handles web crawling.
+
 •	BeautifulSoup & Scikit-Learn: Used for parsing HTML and indexing text.
+
 •	Flask: Provides the web interface and query processing backend.
-Interfaces
+
+# Interfaces
+
 •	The user interface is web-based, accessible through standard web browsers.
+
 •	Backend processes communicate through internal APIs and shared files (like the inverted index).
 
 
@@ -60,9 +65,13 @@ Interfaces
 # Commands
 
 •	Run the crawler with scrapy crawl web_document_spider.
+
 •	Start the Flask app with python app.py.
-Inputs
+
+# Inputs
+
 •	The crawler takes a starting URL and limits for depth and pages.
+
 •	The Flask app takes search queries through a web form.
 
 
@@ -90,11 +99,13 @@ The project successfully meets its goal of enabling efficient information retrie
 # Test Cases
 
 •	Test coverage includes crawler boundary conditions, indexer accuracy, and query processor resilience.
+
 •	Utilize frameworks like unittest for Python to implement test cases.
 
 
 # Source Code
 
 •	Provided in the initial query, documented with inline comments.
+
 •	Dependencies include open-source libraries listed in a requirements file.
 
