@@ -43,6 +43,9 @@ Interfaces
 •	Python was chosen for its robust libraries and ease of integration between components.
 
 
+![WhatsApp Image 2024-04-22 at 23 54 40_5fcecf7a](https://github.com/varunkhareedu/IR-Project/assets/70313728/d8adb751-2b80-4c5b-97b9-c49ddf8d5b40)
+
+
 # Operation
 
 # Commands
